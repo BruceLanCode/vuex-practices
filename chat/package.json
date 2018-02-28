@@ -1,0 +1,24 @@
+{
+  "name": "vuex-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lantu",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "todomvc-app-css": "^2.1.0",
+    "vue": "^2.3.4",
+    "vue-loader": "^13.0.0",
+    "vue-template-compiler": "^2.3.4",
+    "vuex": "^2.3.1",
+    "webpack": "^3.0.0"
+  }
+}
